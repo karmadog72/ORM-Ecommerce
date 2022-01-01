@@ -17,8 +17,6 @@ https://watch.screencastify.com/v/gNkUNUr6UBsYqNakbYAf
   ## Questions
   If you have any questions you can email me at https://www.linkedin.com/in/danika-pearson/ OR
   See all of my work at GitHub (https://github.com/karmadog72)
-  
-  ## Testing 
-  ${data.testing} 
+ 
 
   ## Image Example![insomnia](https://user-images.githubusercontent.com/89046934/147843129-3c592818-cac0-4bd3-8809-7ee1f9adea54.png)
